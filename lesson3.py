@@ -70,6 +70,6 @@
 # else:
 #     print("No")
 
-# num1 = int(input('enter a numb : '))
-# for i in range(1, 11):
-#     print(i * num1)
+num1 = int(input('enter a numb : '))
+ for i in range(1, 11):
+     print(i * num1)
